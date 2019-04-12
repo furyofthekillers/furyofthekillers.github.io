@@ -1,0 +1,51 @@
+html {
+    height: 100%;
+}
+.main {
+    /* background: linear-gradient(to bottom,rgba(22,22,22,1) 0,rgba(33,33,33,1) 100%); */
+    background: url('../images/background-fury.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.wrap {
+    min-height: 420px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.brasao {
+    display: block;
+    position: relative;
+    width: 415px;
+    height: 415px;
+    background: url('../images/bg-brasao.png') no-repeat center;
+    cursor: pointer;
+}
+.logo {
+    display: block;
+    position: absolute;
+    top: 70px;
+    left: 50%;
+    margin-left: -90px;
+}
+.logo:first-child {
+    display: none;
+}
+.logo:first-child:last-child {
+    display: block;
+}
