@@ -31,9 +31,7 @@ function random(){
 
 
 
-var members = $.getJSON( "assets/json/members.json", function() {
-    console.log( "success" );
-}).done(function( data ) {
+var members = $.getJSON( "assets/json/members.json", function(data) {
     $.each( data.items, function( i, item ) {
         tag     = item[i].gametag;
         name    = item[i].name;
@@ -43,6 +41,9 @@ var members = $.getJSON( "assets/json/members.json", function() {
         line    = item[i].line;
         console.log('Gametag: '+tag+' | Nome: '+name+' | Nasc: '+date+' | Patente: '+patent+' | Caveira: '+skull+' | Linha: '+line);
     });
+    console.log( "success" );
+}).done(function() {
+    console.log( "done" );    
 })
 .fail(function() {
     console.log( "error" );
@@ -51,9 +52,41 @@ var members = $.getJSON( "assets/json/members.json", function() {
     console.log( "complete" );
 });
 
-// Perform other work here ...
+function carregarItens(){
+    //variáveis
+    var url = "assets/json/members.json";
 
-// Set another completion function for the request above
-members.complete(function() {
-    console.log( "second complete" );
-});
+    //Capturar Dados Usando Método AJAX do jQuery
+    $.ajax({
+        type: "GET", 
+        url: url,
+        timeout: 3000,
+        datatype: 'JSON',
+        contentType: "application/json; charset=utf-8",
+        cache: false,
+        beforeSend: function() {
+            console.log("Carregando..."); //Carregando
+        },
+        error: function() {
+            console.log("O servidor não conseguiu processar o pedido");
+        },
+        success: function(members) {
+            // Interpretando retorno JSON...
+            var members = members;
+
+            // Listando cada cliente encontrado na lista...
+            $.each(members,function(i, member){
+                tag     = member[i].gametag;
+                name    = member[i].name;
+                date    = member[i].date;
+                patent  = member[i].patent;
+                skull   = member[i].skull;
+                line    = member[i].line;
+                
+                console.log('Gametag: '+tag+' | Nome: '+name+' | Nasc: '+date+' | Patente: '+patent+' | Caveira: '+skull+' | Linha: '+line);
+            });
+                //Limpar Status de Carregando 
+            console.log("Carregado"); 
+        } 
+    });  
+}
