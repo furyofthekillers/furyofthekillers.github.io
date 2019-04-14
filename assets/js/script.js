@@ -32,7 +32,7 @@ function random(){
 
 
 var members = $.getJSON( "assets/json/members.json", function(data) {
-    $.each( data.items, function( i, item ) {
+    $.each( data.members, function( i, item ) {
         tag     = item[i].gametag;
         name    = item[i].name;
         date    = item[i].date;
@@ -72,10 +72,10 @@ function carregarItens(){
         },
         success: function(members) {
             // Interpretando retorno JSON...
-            var members = members;
+            var items = members;
 
             // Listando cada cliente encontrado na lista...
-            $.each(members,function(i, member){
+            $.each(items,function(i, member){
                 tag     = member[i].gametag;
                 name    = member[i].name;
                 date    = member[i].date;
