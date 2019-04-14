@@ -32,13 +32,16 @@ function random(){
 
 
 var members = $.getJSON( "assets/json/members.json", function(data) {
-    $.each( data.members, function( i, item ) {
-        tag     = item[i].gametag;
-        name    = item[i].name;
-        date    = item[i].date;
-        patent  = item[i].patent;
-        skull   = item[i].skull;
-        line    = item[i].line;
+    console.log('data: '+data);
+    $.each( data.members, function( i, member ) {
+        console.log('data members: '+data.members);
+        console.log('member: '+member);
+        tag     = member[i].gametag;
+        name    = member[i].name;
+        date    = member[i].date;
+        patent  = member[i].patent;
+        skull   = member[i].skull;
+        line    = member[i].line;
         console.log('Gametag: '+tag+' | Nome: '+name+' | Nasc: '+date+' | Patente: '+patent+' | Caveira: '+skull+' | Linha: '+line);
     });
     console.log( "success" );
@@ -52,41 +55,41 @@ var members = $.getJSON( "assets/json/members.json", function(data) {
     console.log( "complete" );
 });
 
-function carregarItens(){
-    //variáveis
-    var url = "assets/json/members.json";
+// function carregarItens(){
+//     //variáveis
+//     var url = "assets/json/members.json";
 
-    //Capturar Dados Usando Método AJAX do jQuery
-    $.ajax({
-        type: "GET", 
-        url: url,
-        timeout: 3000,
-        datatype: 'JSON',
-        contentType: "application/json; charset=utf-8",
-        cache: false,
-        beforeSend: function() {
-            console.log("Carregando..."); //Carregando
-        },
-        error: function() {
-            console.log("O servidor não conseguiu processar o pedido");
-        },
-        success: function(members) {
-            // Interpretando retorno JSON...
-            var items = members;
+//     //Capturar Dados Usando Método AJAX do jQuery
+//     $.ajax({
+//         type: "GET", 
+//         url: url,
+//         timeout: 3000,
+//         datatype: 'JSON',
+//         contentType: "application/json; charset=utf-8",
+//         cache: false,
+//         beforeSend: function() {
+//             console.log("Carregando..."); //Carregando
+//         },
+//         error: function() {
+//             console.log("O servidor não conseguiu processar o pedido");
+//         },
+//         success: function(members) {
+//             // Interpretando retorno JSON...
+//             var items = members;
 
-            // Listando cada cliente encontrado na lista...
-            $.each(items,function(i, member){
-                tag     = member[i].gametag;
-                name    = member[i].name;
-                date    = member[i].date;
-                patent  = member[i].patent;
-                skull   = member[i].skull;
-                line    = member[i].line;
+//             // Listando cada cliente encontrado na lista...
+//             $.each(items,function(i, member){
+//                 tag     = member[i].gametag;
+//                 name    = member[i].name;
+//                 date    = member[i].date;
+//                 patent  = member[i].patent;
+//                 skull   = member[i].skull;
+//                 line    = member[i].line;
                 
-                console.log('Gametag: '+tag+' | Nome: '+name+' | Nasc: '+date+' | Patente: '+patent+' | Caveira: '+skull+' | Linha: '+line);
-            });
-                //Limpar Status de Carregando 
-            console.log("Carregado"); 
-        } 
-    });  
-}
+//                 console.log('Gametag: '+tag+' | Nome: '+name+' | Nasc: '+date+' | Patente: '+patent+' | Caveira: '+skull+' | Linha: '+line);
+//             });
+//                 //Limpar Status de Carregando 
+//             console.log("Carregado"); 
+//         } 
+//     });  
+// }
