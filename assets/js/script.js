@@ -1,48 +1,41 @@
+var _listMembers = [];
+var _skulls = [];
+
 $(document).ready(function(){
-    var skulls = [];
     $('.brasao').on('click', function(){
-        randomImg(skulls);
+        randomSkulls(_skulls);
     });
-    carregarMembros(skulls);
+    carregarMembros();
 });
 
-
-
-function carregarMembros(skulls){
-    var url = "assets/json/members.json";
+function carregarMembros(){
     $.ajax({
         type: "GET", 
-        url: url,
+        url: "assets/json/members.json",
         timeout: 3000,
         datatype: 'JSON',
         contentType: "application/json; charset=utf-8",
         cache: false,
-        beforeSend: function() {
-            console.log("Loading members...");
-        },
         error: function() {
             console.log("O servidor não conseguiu carregar os membros");
         },
         success: function(data) {
             $.each(data,function(i, members){
-                $.each(members,function(i, member){
-                    tag     = member.gametag;
-                    name    = member.name;
-                    date    = member.date;
-                    patent  = member.patent;
-                    skull   = member.skull;
-                    line    = member.line;
-
-                    skulls[i] = member.skull;
-                    return skulls;
+                $.each(members,function(i, member) {
+                    _listMembers.push(member);
                 });
-                console.log('skulls: '+skulls);
-                randomImg(skulls);
             });
+            listSkulls(_listMembers);
+            return _listMembers;
         }
     });
 }
-
-function randomImg(data){
+function listSkulls(data){
+    $.each(data, function( i, member ) {
+        _skulls.push(member.skull);
+    });
+    return _skulls;
+}
+function randomSkulls(data){
     $('.brasao').html('<img class="logo" src="assets/images/skulls/fury-skull-'+data[Math.floor(Math.random() * data.length)]+'.png" alt="Skull Fury of the Killers">');
 }
