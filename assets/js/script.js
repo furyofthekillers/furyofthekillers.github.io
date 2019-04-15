@@ -1,8 +1,8 @@
 $(document).ready(function(){
+    var skulls = [];
     $('.brasao').on('click', function(){
-        random(skulls);
+        randomImg(skulls);
     });
-    var skulls = [];    
     carregarMembros(skulls);
 });
 
@@ -34,22 +34,15 @@ function carregarMembros(skulls){
                     line    = member.line;
 
                     skulls[i] = member.skull;
-                    // console.log('Gametag: '+tag);
-                    // console.log('Nome: '+name);
-                    // console.log('Nasc: '+date);
-                    // console.log('Patente: '+patent);
-                    // console.log('Skull: '+skull);
-                    // console.log('Linha: '+line);
-                    // console.log('_______');
                     return skulls;
                 });
                 console.log('skulls: '+skulls);
-                random(skulls);
+                randomImg(skulls);
             });
         }
     });
 }
 
-function random(data){
+function randomImg(data){
     $('.brasao').html('<img class="logo" src="assets/images/skulls/fury-skull-'+data[Math.floor(Math.random() * data.length)]+'.png" alt="Skull Fury of the Killers">');
 }
