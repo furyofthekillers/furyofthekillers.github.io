@@ -48,6 +48,7 @@ h6 {
     display: block;
     position: relative;
     min-width: 300px;
+    width: 100%;
     height: 415px;
     background: url('../images/bg-brasao.png') no-repeat center;
     cursor: pointer;
