@@ -7,15 +7,11 @@ body {
   box-sizing: border-box;
   padding: 0;
   min-height: 100%;
+  height: 100%;
   font-size: 18px;
   font-family: 'Roboto', Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
   line-height: 1.4rem;
-  background: url('../images/background-fury.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-size: cover;
 }
 h1,
 h2,
@@ -25,14 +21,29 @@ h5,
 h6 {
   font-family: 'Roboto', Arial, "Lucida Grande", sans-serif;
   font-weight: 700;
-  color: #001A33;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+h4 {
+  font-size: 1.375rem;
 }
 :focus,
 ::selection {
   outline-color: transparent;
   outline-style: none;
 }
-.main {
+.wrapping {
+  min-height: 420px;
+  height: 100%;
+}
+.wrap {
     /* background: linear-gradient(to bottom,rgba(22,22,22,1) 0,rgba(33,33,33,1) 100%); */
     display: flex;
     flex-flow: row nowrap;
@@ -40,9 +51,7 @@ h6 {
     align-items: center;
     align-content: center;
 }
-.wrap {
-    min-height: 420px;
-    height: 100%;
+.main {
 }
 .brasao {
     display: block;
@@ -65,6 +74,51 @@ h6 {
 }
 .logo:first-child:last-child {
     display: block;
+}
+.main {
+  /* padding: 2.5rem 0; */
+    min-height: 420px;
+    height: 100%;
+    background: url('../images/background-fury.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+.about {
+  background: #161616;
+  padding: 2.5rem 0;
+  color: #ffffff;
+}
+.team {
+  background: #f0f0f0;
+  padding: 2.5rem 0;
+  color: #161616;
+}
+.members {
+  list-style: none;
+  padding: 0;
+  margin-block-start: -.5rem;
+  margin-block-end: -.5rem;
+  margin-inline-start: -.5rem;
+  margin-inline-end: -.5rem;
+  padding-inline-start: 0;
+}
+.member {
+  margin: 4.375rem auto 1.25rem;
+  padding: 0 .5rem .5rem;
+  background: #d4d4d4;
+  border-top: 3px solid #ff0000;
+}
+.skulls {
+  margin-top: -4.375rem;
+  display: block;
+}
+.data {
+  padding: .5rem;
+}
+.patent {
+  text-transform: capitalize;
 }
 @media only screen and (min-width: 48rem) {
   body {

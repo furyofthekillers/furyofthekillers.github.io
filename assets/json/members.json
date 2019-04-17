@@ -1,6 +1,14 @@
 {
   "members": [
         {
+            "gametag": "RonaldoPUNISHER",
+            "name": "Ronaldo Mendes de Lima",
+            "date": "13/02/1986",
+            "patent": "General",
+            "skull": "punisher",
+            "line": "competitive"
+        },
+        {
             "gametag": "Al3xONE1",
             "name": "Alexandre Coelho Pereira",
             "date": "23/04/1998",
@@ -9,11 +17,19 @@
             "line": "competitive"
         },
         {
-            "gametag": "Clex c",
-            "name": "Cleiton Cabral",
-            "date": "30/09/1991",
-            "patent": "cabo",
-            "skull": "mage",
+            "gametag": "Jairo Lima CE",
+            "name": "Jairo de Lima Silva",
+            "date": "09/03/1983",
+            "patent": "coronel",
+            "skull": "rambo",
+            "line": "competitive"
+        },
+        {
+            "gametag": "EvilSchluters",
+            "name": "Herson Schluter",
+            "date": "08/07/1985",
+            "patent": "coronel",
+            "skull": "jason",
             "line": "casual"
         },
         {
@@ -25,83 +41,11 @@
             "line": "competitive"
         },
         {
-            "gametag": "eryckzocher",
-            "name": "Erick Sousa Zocher",
-            "date": "10/09/2000",
-            "patent": "Tenente",
-            "skull": "bope",
-            "line": "casual"
-        },
-        {
-            "gametag": "EvilSchluters",
-            "name": "Herson Schluter",
-            "date": "08/07/1985",
-            "patent": "coronel",
-            "skull": "jason",
-            "line": "casual"
-        },
-        {
-            "gametag": "Jairo Lima CE",
-            "name": "Jairo de Lima Silva",
-            "date": "09/03/1983",
-            "patent": "Major",
-            "skull": "rambo",
-            "line": "competitive"
-        },
-        {
-            "gametag": "JonathanR77",
-            "name": "Jonathan Rodrigues Campos",
-            "date": "08/02/2002",
-            "patent": "cabo",
-            "skull": "coringa",
-            "line": "casual"
-        },
-        {
-            "gametag": "lLeo m1ur4",
-            "name": "Leonardo Ferreira",
-            "date": "14/03/1986",
-            "patent": "Sargento",
-            "skull": "desmond",
-            "line": "casual"
-        },
-        {
-            "gametag": "llMarCeLoWaRll",
-            "name": "Marcelo Michiline Silva",
-            "date": "23/03/1989",
-            "patent": "Cabo",
-            "skull": "warmachine",
-            "line": "casual"
-        },
-        {
             "gametag": "luancarolzinha",
             "name": "Luan de Oliveira Santos",
             "date": "11/07/1991",
-            "patent": "Coronel",
+            "patent": "coronel",
             "skull": "blade",
-            "line": "casual"
-        },
-        {
-            "gametag": "LucasCampos HLD",
-            "name": "Lucas Campos de Araújo",
-            "date": "27/06/1994",
-            "patent": "Cabo",
-            "skull": "spawn",
-            "line": "casual"
-        },
-        {
-            "gametag": "Luiz Angelo",
-            "name": "Luiz Angelo Cerri Neto",
-            "date": "05/04/1985",
-            "patent": "Tenente",
-            "skull": "mengele",
-            "line": "casual"
-        },
-        {
-            "gametag": "ManoDrako09",
-            "name": "Emmanuel Fernandes da Costa",
-            "date": "09/02/1990",
-            "patent": "Cabo",
-            "skull": "base",
             "line": "casual"
         },
         {
@@ -113,6 +57,30 @@
             "line": "casual"
         },
         {
+            "gametag": "Luiz Angelo",
+            "name": "Luiz Angelo Cerri Neto",
+            "date": "05/04/1985",
+            "patent": "Tenente",
+            "skull": "mengele",
+            "line": "casual"
+        },
+        {
+            "gametag": "eryckzocher",
+            "name": "Erick Sousa Zocher",
+            "date": "10/09/2000",
+            "patent": "Tenente",
+            "skull": "bope",
+            "line": "casual"
+        },
+        {
+            "gametag": "lLeo m1ur4",
+            "name": "Leonardo Ferreira",
+            "date": "14/03/1986",
+            "patent": "Sargento",
+            "skull": "desmond",
+            "line": "casual"
+        },
+        {
             "gametag": "Pouca Sombra22",
             "name": "Diego da Silva Gevegier Tramontana",
             "date": "30/09/1986",
@@ -121,12 +89,44 @@
             "line": "casual"
         },
         {
-            "gametag": "RonaldoPUNISHER",
-            "name": "Ronaldo Mendes de Lima",
-            "date": "13/02/1986",
-            "patent": "General",
-            "skull": "punisher",
-            "line": "competitive"
+            "gametag": "Clex c",
+            "name": "Cleiton Cabral",
+            "date": "30/09/1991",
+            "patent": "cabo",
+            "skull": "mage",
+            "line": "casual"
+        },
+        {
+            "gametag": "llMarCeLoWaRll",
+            "name": "Marcelo Michiline Silva",
+            "date": "23/03/1989",
+            "patent": "Cabo",
+            "skull": "warmachine",
+            "line": "casual"
+        },
+        {
+            "gametag": "LucasCampos HLD",
+            "name": "Lucas Campos de Araújo",
+            "date": "27/06/1994",
+            "patent": "Cabo",
+            "skull": "spawn",
+            "line": "casual"
+        },
+        {
+            "gametag": "JonathanR77",
+            "name": "Jonathan Rodrigues Campos",
+            "date": "08/02/2002",
+            "patent": "cabo",
+            "skull": "coringa",
+            "line": "casual"
+        },
+        {
+            "gametag": "ManoDrako09",
+            "name": "Emmanuel Fernandes da Costa",
+            "date": "09/02/1990",
+            "patent": "Cabo",
+            "skull": "base",
+            "line": "casual"
         },
         {
             "gametag": "J4cK5oNHunTer",
@@ -158,7 +158,7 @@
             "gametag": "fabiinIKS",
             "name": "Fabio José Fontanezzi",
             "date": "25/02/1993",
-            "patent": "Coronel",
+            "patent": "coronel",
             "skull": "johnwick",
             "line": "competitive"
         }
