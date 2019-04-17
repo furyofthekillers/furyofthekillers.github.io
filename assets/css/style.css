@@ -27,7 +27,8 @@ h6 {
   font-weight: 700;
   color: #001A33;
 }
-:focus {
+:focus,
+::selection {
   outline-color: transparent;
   outline-style: none;
 }
@@ -42,18 +43,10 @@ h6 {
 .wrap {
     min-height: 420px;
     height: 100%;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
 }
 .brasao {
     display: block;
     position: relative;
-    width: 415px;
     height: 415px;
     background: url('../images/bg-brasao.png') no-repeat center;
     cursor: pointer;
