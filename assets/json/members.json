@@ -68,7 +68,7 @@
             "gametag": "eryckzocher",
             "name": "Erick Sousa Zocher",
             "date": "10/09/2000",
-            "patent": "Tenente",
+            "patent": "Sargento",
             "skull": "bope",
             "line": "casual"
         },
@@ -81,19 +81,19 @@
             "line": "casual"
         },
         {
+            "gametag": "Clex c",
+            "name": "Cleiton Cabral",
+            "date": "30/09/1991",
+            "patent": "Sargento",
+            "skull": "mage",
+            "line": "casual"
+        },
+        {
             "gametag": "Pouca Sombra22",
             "name": "Diego da Silva Gevegier Tramontana",
             "date": "30/09/1986",
             "patent": "Cabo",
             "skull": "link",
-            "line": "casual"
-        },
-        {
-            "gametag": "Clex c",
-            "name": "Cleiton Cabral",
-            "date": "30/09/1991",
-            "patent": "cabo",
-            "skull": "mage",
             "line": "casual"
         },
         {
@@ -116,7 +116,7 @@
             "gametag": "JonathanR77",
             "name": "Jonathan Rodrigues Campos",
             "date": "08/02/2002",
-            "patent": "cabo",
+            "patent": "Cabo",
             "skull": "coringa",
             "line": "casual"
         },
@@ -140,7 +140,7 @@
             "gametag": "Romarioo10",
             "name": "Gabriel Henrique de Lorena Martins",
             "date": "06/06/2000",
-            "patent": "Cabo",
+            "patent": "Soldado",
             "skull": "base",
             "line": "casual"
         },
@@ -148,7 +148,7 @@
             "gametag": "TrapZ x NEMEZYS",
             "name": "Kauan Felipe Silva dos Santos",
             "date": "21/02/1991",
-            "patent": "Cabo",
+            "patent": "Soldado",
             "skull": "base",
             "line": "casual"
         }
