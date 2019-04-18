@@ -46,7 +46,7 @@
             "date": "11/07/1991",
             "patent": "coronel",
             "skull": "blade",
-            "line": "casual"
+            "line": "competitive"
         },
         {
             "gametag": "marciogaroupa",
@@ -90,7 +90,7 @@
         },
         {
             "gametag": "Pouca Sombra22",
-            "name": "Diego da Silva Gevegier Tramontana",
+            "name": "Diego da Silva G. Tramontana",
             "date": "30/09/1986",
             "patent": "Cabo",
             "skull": "link",
@@ -138,7 +138,7 @@
         },
         {
             "gametag": "Romarioo10",
-            "name": "Gabriel Henrique de Lorena Martins",
+            "name": "Gabriel Henrique de L. Martins",
             "date": "06/06/2000",
             "patent": "Soldado",
             "skull": "base",
@@ -151,6 +151,14 @@
             "patent": "Soldado",
             "skull": "base",
             "line": "casual"
+        },
+        {
+            "gametag": "x TraayWaay",
+            "name": "Nitinho de Souza Santiago",
+            "date": "10/02/1997",
+            "patent": "Soldado",
+            "skull": "base",
+            "line": "competitive"
         }
     ],
     "old_members": [
