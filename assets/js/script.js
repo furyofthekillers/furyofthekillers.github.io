@@ -24,23 +24,26 @@ $(document).ready(function(){
 function scrolltotop_display(){
     var el=$('.link-gotop');
     if((window.pageYOffset||document.documentElement.scrollTop)>window.innerHeight) {
-      if(!el.is(':visible')) { el.stop(true, true).fadeIn(); }
+      if(!el.is(':visible')) {
+        el.stop(true, true).fadeIn();
+        $('.head').addClass('reduced');
+      }
     }
     else {
-      if(!el.is(':animated')) { el.stop(true, true).fadeOut(); }
+      if(!el.is(':animated')) {
+        el.stop(true, true).fadeOut();
+        $('.head').removeClass('reduced');
+      }
     }
 }
 function scrolltotop_position(){
     var el=$('.link-gotop');
+    $('.head').addClass('reduced');
     el.css('top', window.innerHeight-75);
     el.css('left', window.innerWidth-75);
     scrolltotop_display();
 }
-$(window).on('load', function(){
-    $('.link-gotop').css('display', 'none');
-    $('.link-gotop').css('position', 'fixed');
-    scrolltotop_position();
-});
+$(window).on('load', scrolltotop_position);
 $(window).on('scroll', scrolltotop_display);
 $(window).on('resize', scrolltotop_position);
 
