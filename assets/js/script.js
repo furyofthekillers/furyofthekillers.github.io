@@ -20,6 +20,16 @@ $(document).ready(function(){
         }
       }
     });
+    $('.navbar-toggle').on('click', function(e){
+      e.preventDefault();
+      if ( $(this).hasClass('collapsed')) {
+        $(this).removeClass('collapsed').addClass('close');
+        $('.head, .menu').removeClass('close').addClass('collapsed');
+      } else {
+        $(this).removeClass('close').addClass('collapsed');
+        $('.head, .menu').removeClass('collapsed').addClass('close');
+      }
+    });
 });
 
 $(window).on('load', scrolltotop_position);
