@@ -65,18 +65,10 @@
             "line": "casual"
         },
         {
-            "gametag": "eryckzocher",
-            "name": "Erick Sousa Zocher",
-            "date": "10/09/2000",
-            "patent": "Sargento",
-            "skull": "bope",
-            "line": "casual"
-        },
-        {
             "gametag": "lLeo m1ur4",
             "name": "Leonardo Ferreira",
             "date": "14/03/1986",
-            "patent": "Sargento",
+            "patent": "Tenente",
             "skull": "desmond",
             "line": "casual"
         },
@@ -84,8 +76,24 @@
             "gametag": "Clex c",
             "name": "Cleiton Cabral",
             "date": "30/09/1991",
-            "patent": "Sargento",
+            "patent": "Tenente",
             "skull": "mage",
+            "line": "casual"
+        },
+        {
+            "gametag": "LucasCampos HLD",
+            "name": "Lucas Campos de Araújo",
+            "date": "27/06/1994",
+            "patent": "Tenente",
+            "skull": "spawn",
+            "line": "casual"
+        },
+        {
+            "gametag": "eryckzocher",
+            "name": "Erick Sousa Zocher",
+            "date": "10/09/2000",
+            "patent": "Sargento",
+            "skull": "bope",
             "line": "casual"
         },
         {
@@ -105,14 +113,6 @@
             "line": "casual"
         },
         {
-            "gametag": "LucasCampos HLD",
-            "name": "Lucas Campos de Araújo",
-            "date": "27/06/1994",
-            "patent": "Cabo",
-            "skull": "spawn",
-            "line": "casual"
-        },
-        {
             "gametag": "JonathanR77",
             "name": "Jonathan Rodrigues Campos",
             "date": "08/02/2002",
@@ -125,7 +125,7 @@
             "name": "Emmanuel Fernandes da Costa",
             "date": "09/02/1990",
             "patent": "Cabo",
-            "skull": "base",
+            "skull": "wolverine",
             "line": "casual"
         },
         {
