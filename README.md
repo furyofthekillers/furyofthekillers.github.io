@@ -1,4 +1,5 @@
-# Fury of the Killers :skull: :boom: :boom: :boom: :gun: :video_game:
+# Fury of the Killers
+:skull: :boom: :boom: :boom: :gun: :video_game:
 * [Landing Page](https://www.furyofthekillers.com.br) - Acesse!
 
 Hotsite criado com a intenção de divulgar o clã de Battlefield 5 na plataforma da Xbox Live.
