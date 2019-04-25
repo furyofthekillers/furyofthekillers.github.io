@@ -1,0 +1,32 @@
+{
+  "name": "Fury of the Killers",
+  "short_name": "FURY",
+  "description": "Clã de Battlefield 5 na plataforma Xbox Live",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#161616",
+  "icons": [
+    {
+      "src": "/assets/images/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/fury-of-the-killers.svg",
+      "sizes": "240x160",
+      "type": "image/svg"
+    }
+  ],
+  "background_color": "#161616"
+}
