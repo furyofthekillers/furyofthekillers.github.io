@@ -1,18 +1,10 @@
 {
   "members": [
 		{
-			"gametag": "RonaldoPUNISHER",
-			"name": "Ronaldo Mendes de Lima",
-			"date": "13/02/1986",
-			"patent": "General",
-			"skull": "punisher",
-			"line": "competitive"
-		},
-		{
 			"gametag": "Al3xONE1",
 			"name": "Alexandre Coelho Pereira",
 			"date": "23/04/1998",
-			"patent": "coronel",
+			"patent": "general",
 			"skull": "sniper",
 			"line": "competitive"
 		},
@@ -54,14 +46,6 @@
 			"date": "28/05/1977",
 			"patent": "Tenente",
 			"skull": "medic",
-			"line": "casual"
-		},
-		{
-			"gametag": "Luiz Angelo",
-			"name": "Luiz Angelo Cerri Neto",
-			"date": "05/04/1985",
-			"patent": "Tenente",
-			"skull": "mengele",
 			"line": "casual"
 		},
 		{
@@ -162,6 +146,22 @@
 		}
 	],
 	"old_members": [
+		{
+			"gametag": "RonaldoPUNISHER",
+			"name": "Ronaldo Mendes de Lima",
+			"date": "13/02/1986",
+			"patent": "General",
+			"skull": "punisher",
+			"line": "competitive"
+		},
+		{
+			"gametag": "Luiz Angelo",
+			"name": "Luiz Angelo Cerri Neto",
+			"date": "05/04/1985",
+			"patent": "Tenente",
+			"skull": "mengele",
+			"line": "casual"
+		},
 		{
 			"gametag": "fabiinIKS",
 			"name": "Fabio José Fontanezzi",
