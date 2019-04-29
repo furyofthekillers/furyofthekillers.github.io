@@ -89,14 +89,6 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "llMarCeLoWaRll",
-			"name": "Marcelo Michiline Silva",
-			"date": "23/03/1989",
-			"patent": "Cabo",
-			"skull": "warmachine",
-			"line": "casual"
-		},
-		{
 			"gametag": "JonathanR77",
 			"name": "Jonathan Rodrigues Campos",
 			"date": "08/02/2002",
@@ -160,6 +152,14 @@
 			"date": "05/04/1985",
 			"patent": "Tenente",
 			"skull": "mengele",
+			"line": "casual"
+		},
+		{
+			"gametag": "llMarCeLoWaRll",
+			"name": "Marcelo Michiline Silva",
+			"date": "23/03/1989",
+			"patent": "Cabo",
+			"skull": "warmachine",
 			"line": "casual"
 		},
 		{
