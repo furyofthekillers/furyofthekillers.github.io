@@ -129,25 +129,25 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "Romarioo10",
-			"name": "Gabriel Henrique de L. Martins",
-			"date": "06/06/2000",
-			"patent": "soldado",
-			"skull": "base",
-			"line": "casual"
-		},
-		{
 			"gametag": "TrapZ x NEMEZYS",
 			"name": "Kauan Felipe Silva dos Santos",
 			"date": "21/02/1991",
 			"patent": "soldado",
-			"skull": "base",
+			"skull": "diablo-nemesis",
 			"line": "casual"
 		},
 		{
 			"gametag": "x TraayWaay",
 			"name": "Nitinho de Souza Santiago",
 			"date": "10/02/1997",
+			"patent": "soldado",
+			"skull": "cowboy",
+			"line": "casual"
+		},
+		{
+			"gametag": "Romarioo10",
+			"name": "Gabriel Henrique de L. Martins",
+			"date": "06/06/2000",
 			"patent": "soldado",
 			"skull": "base",
 			"line": "casual"
