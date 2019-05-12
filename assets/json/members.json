@@ -153,17 +153,17 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "I am MyTh z",
-			"name": "Leonardo Rodrigues",
-			"date": "08/07/2001",
+			"gametag": "CowboyCubano",
+			"name": "Gabriel Firakovski",
+			"date": "11/09/2000",
 			"patent": "soldado",
 			"skull": "base",
 			"line": "casual"
 		},
 		{
-			"gametag": "CowboyCubano",
-			"name": "Gabriel Firakovski",
-			"date": "11/09/2000",
+			"gametag": "CabralBsB",
+			"name": "Deivid Rodrigues Cabral",
+			"date": "17/02/1989",
 			"patent": "soldado",
 			"skull": "base",
 			"line": "casual"
@@ -185,6 +185,14 @@
 			"patent": "coronel",
 			"skull": "johnwick",
 			"line": "competitive"
+		},
+		{
+			"gametag": "I am MyTh z",
+			"name": "Leonardo Rodrigues",
+			"date": "08/07/2001",
+			"patent": "soldado",
+			"skull": "base",
+			"line": "casual"
 		}
 	],
 	"patents": [
