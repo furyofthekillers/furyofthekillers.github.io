@@ -25,22 +25,6 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "DivooX",
-			"name": "Diego Diniz De Lima Machado",
-			"date": "01/01/1988",
-			"patent": "coronel",
-			"skull": "terminator",
-			"line": "competitive"
-		},
-		{
-			"gametag": "luancarolzinha",
-			"name": "Luan de Oliveira Santos",
-			"date": "11/07/1991",
-			"patent": "coronel",
-			"skull": "blade",
-			"line": "competitive"
-		},
-		{
 			"gametag": "RonaldoPUNISHER",
 			"name": "Ronaldo Mendes de Lima",
 			"date": "13/02/1986",
@@ -52,9 +36,17 @@
 			"gametag": "marciogaroupa",
 			"name": "Marcio Rosa Martins",
 			"date": "28/05/1977",
-			"patent": "tenente",
+			"patent": "coronel",
 			"skull": "medic",
 			"line": "casual"
+		},
+		{
+			"gametag": "DivooX",
+			"name": "Diego Diniz De Lima Machado",
+			"date": "01/01/1988",
+			"patent": "tenente",
+			"skull": "terminator",
+			"line": "competitive"
 		},
 		{
 			"gametag": "lLeo m1ur4",
@@ -193,6 +185,14 @@
 			"patent": "soldado",
 			"skull": "base",
 			"line": "casual"
+		},
+		{
+			"gametag": "luancarolzinha",
+			"name": "Luan de Oliveira Santos",
+			"date": "11/07/1991",
+			"patent": "coronel",
+			"skull": "blade",
+			"line": "competitive"
 		}
 	],
 	"patents": [
