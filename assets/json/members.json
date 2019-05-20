@@ -65,14 +65,6 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "LucasCampos HLD",
-			"name": "Lucas Campos de Araújo",
-			"date": "27/06/1994",
-			"patent": "tenente",
-			"skull": "spawn",
-			"line": "casual"
-		},
-		{
 			"gametag": "Luiz Angelo",
 			"name": "Luiz Angelo Cerri Neto",
 			"date": "05/04/1985",
@@ -193,6 +185,14 @@
 			"patent": "coronel",
 			"skull": "blade",
 			"line": "competitive"
+		},
+		{
+			"gametag": "LucasCampos HLD",
+			"name": "Lucas Campos de Araújo",
+			"date": "27/06/1994",
+			"patent": "tenente",
+			"skull": "spawn",
+			"line": "casual"
 		}
 	],
 	"patents": [
