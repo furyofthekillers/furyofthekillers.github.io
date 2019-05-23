@@ -10,16 +10,8 @@ $(document).ready(function(){
 		aspectRadio();
 		$('.brasao').on('click', function(){
 				randomSkulls(_skulls);
-				if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-					count++;
-					if (count == _skulls.length) {
-						if (countTwo >= 1){
-							record();
-							countTwo = 0;
-						}
-						count = 0;
-					}
-				}
+				count++;
+				console.log(count);
 		});
 		$('a[href*="#"]').not('[href="#"]').not('[href="#0"]').on('click', function(event) {
 			if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -40,6 +32,16 @@ $(document).ready(function(){
 		});
 		$('.jason').on('click', function(){
 			countTwo++;
+			console.log(countTwo);
+			if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+				if (count == _skulls.length) {
+					if (countTwo >= 1){
+						record();
+						countTwo = 0;
+					}
+					count = 0;
+				}
+			}
 		});
 });
 
