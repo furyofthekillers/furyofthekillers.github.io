@@ -2,6 +2,7 @@ var _listMembers = [];
 var _skulls     = [];
 var _line       = [];
 var count 			= 0;
+var countTwo 		= 0;
 /////////////////////-------/////////////////////
 
 $(document).ready(function(){
@@ -12,7 +13,10 @@ $(document).ready(function(){
 				if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
 					count++;
 					if (count == _skulls.length) {
-						record();
+						if (countTwo >= 1){
+							record();
+							countTwo = 0;
+						}
 						count = 0;
 					}
 				}
@@ -33,6 +37,9 @@ $(document).ready(function(){
 		$('.navbar-toggle').on('click', function(e){
 			e.preventDefault();
 			toggleMenu();
+		});
+		$('.jason').on('click', function(){
+			countTwo++;
 		});
 });
 
@@ -135,7 +142,7 @@ function lineMembers(data){
 				var happy = '';
 				if(_today == bday) { var happy = ' bday'; }
 				$(".members").append("<li class=\"center-xs col-lg-3 col-md-3 col-sm-6 col-xs-12\"><div class=\"member"+happy+"\"><span class=\"skulls\"><img src=\"assets/images/skulls/fury-skull-"
-				+member.skull+".png\" alt=\"\" class=\"skull\"></span><div class=\"data start-xs\"><h4 class=\"gametag\">"
+				+member.skull+".png\" alt=\"\" class=\"skull "+member.skull+"\"></span><div class=\"data start-xs\"><h4 class=\"gametag\">"
 				+member.gametag+"</h4><p class=\"name\">"
 				+member.name+"</p><p class=\"date\">"
 				+member.date+"</p><p class=\"patent\">"
