@@ -1,7 +1,7 @@
 var _listMembers = [];
 var _skulls     = [];
 var _line       = [];
-
+var count 			= 0;
 /////////////////////-------/////////////////////
 
 $(document).ready(function(){
@@ -9,6 +9,13 @@ $(document).ready(function(){
 		aspectRadio();
 		$('.brasao').on('click', function(){
 				randomSkulls(_skulls);
+				if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+					count++;
+					if (count == _skulls.length) {
+						record();
+						count = 0;
+					}
+				}
 		});
 		$('a[href*="#"]').not('[href="#"]').not('[href="#0"]').on('click', function(event) {
 			if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {

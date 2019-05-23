@@ -129,14 +129,6 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "Romarioo10",
-			"name": "Gabriel Henrique de L. Martins",
-			"date": "06/06/2000",
-			"patent": "soldado",
-			"skull": "base",
-			"line": "casual"
-		},
-		{
 			"gametag": "CowboyCubano",
 			"name": "Gabriel Firakovski",
 			"date": "11/09/2000",
@@ -192,6 +184,14 @@
 			"date": "27/06/1994",
 			"patent": "tenente",
 			"skull": "spawn",
+			"line": "casual"
+		},
+		{
+			"gametag": "Romarioo10",
+			"name": "Gabriel Henrique de L. Martins",
+			"date": "06/06/2000",
+			"patent": "soldado",
+			"skull": "base",
 			"line": "casual"
 		}
 	],
