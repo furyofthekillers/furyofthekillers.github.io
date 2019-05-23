@@ -30,19 +30,7 @@ $(document).ready(function(){
 			e.preventDefault();
 			toggleMenu();
 		});
-		$('.jason').on('click', function(){
-			countTwo++;
-			console.log(countTwo);
-			if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-				if (count == _skulls.length) {
-					if (countTwo >= 1){
-						record();
-						countTwo = 0;
-					}
-					count = 0;
-				}
-			}
-		});
+
 });
 
 function openMenu(){
@@ -154,6 +142,7 @@ function lineMembers(data){
 				+"<a class=\"clips\" title=\"Assista a live do "+member.gametag+" no Mixer\" target=\"_blank\" href=\"https://mixer.com/"+member.gametag.replace(/\s+/g,'_')+"/\"><i class=\"ico ico-mixer\">Mixer</i></a>"
 				+"</span></div></li>");
 		});
+		mtoasty();
 }
 
 function listSkulls(data){
@@ -165,6 +154,22 @@ function listSkulls(data){
 
 function randomSkulls(data){
 		$(".brasao").html('<img class="logo" src="assets/images/skulls/fury-skull-'+data[Math.floor(Math.random() * data.length)]+'.png" alt="Skull Fury of the Killers">');
+}
+
+var mtoasty = function () {
+	$('.jason').on('click', function(){
+		countTwo++;
+		console.log(countTwo);
+		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+			if (count == _skulls.length) {
+				if (countTwo >= 1){
+					record();
+					countTwo = 0;
+				}
+				count = 0;
+			}
+		}
+	});
 }
 
 var toasty = function () {
