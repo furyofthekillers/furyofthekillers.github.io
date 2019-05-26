@@ -143,6 +143,22 @@
 			"patent": "soldado",
 			"skull": "base",
 			"line": "casual"
+		},
+		{
+			"gametag": "NattyFalcao",
+			"name": "Natália Falcão",
+			"date": "25/12/1994",
+			"patent": "soldado",
+			"skull": "base",
+			"line": "casual"
+		},
+		{
+			"gametag": "VinyCustodio",
+			"name": "Vinícius Custódio",
+			"date": "28/07/1985",
+			"patent": "soldado",
+			"skull": "base",
+			"line": "casual"
 		}
 	],
 	"old_members": [
