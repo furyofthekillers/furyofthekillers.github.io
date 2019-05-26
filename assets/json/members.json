@@ -44,17 +44,9 @@
 			"gametag": "DivooX",
 			"name": "Diego Diniz De Lima Machado",
 			"date": "01/01/1988",
-			"patent": "tenente",
+			"patent": "coronel",
 			"skull": "terminator",
 			"line": "competitive"
-		},
-		{
-			"gametag": "lLeo m1ur4",
-			"name": "Leonardo Ferreira",
-			"date": "14/03/1986",
-			"patent": "tenente",
-			"skull": "desmond",
-			"line": "casual"
 		},
 		{
 			"gametag": "Clex c",
@@ -65,10 +57,18 @@
 			"line": "casual"
 		},
 		{
+			"gametag": "lLeo m1ur4",
+			"name": "Leonardo Ferreira",
+			"date": "14/03/1986",
+			"patent": "sargento",
+			"skull": "desmond",
+			"line": "casual"
+		},
+		{
 			"gametag": "Luiz Angelo",
 			"name": "Luiz Angelo Cerri Neto",
 			"date": "05/04/1985",
-			"patent": "tenente",
+			"patent": "sargento",
 			"skull": "mengele",
 			"line": "casual"
 		},
@@ -124,7 +124,7 @@
 			"gametag": "x TraayWaay",
 			"name": "Nitinho de Souza Santiago",
 			"date": "10/02/1997",
-			"patent": "soldado",
+			"patent": "cabo",
 			"skull": "cowboy",
 			"line": "casual"
 		},
@@ -132,7 +132,7 @@
 			"gametag": "CowboyCubano",
 			"name": "Gabriel Firakovski",
 			"date": "11/09/2000",
-			"patent": "soldado",
+			"patent": "cabo",
 			"skull": "cowboy-cubano",
 			"line": "casual"
 		},
