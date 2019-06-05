@@ -136,8 +136,9 @@ function lineMembers(data){
 				+member.name+"</p><p class=\"date\">"
 				+member.date+"</p><p class=\"patent\">"
 				+member.patent+"</p></div><span class=\"links start-xs\">"
-				+"<a class=\"track\" title=\"Dados do "+member.gametag+"\" target=\"_blank\" href=\"https://battlefieldtracker.com/bfv/profile/xbl/"+member.gametag+"/overview\"><i class=\"ico ico-track\">tracker</i></a>"
-				+"<a class=\"clips\" title=\"Clipes do "+member.gametag+"\" target=\"_blank\" href=\"https://gamerdvr.com/gamer/"+member.gametag.replace(/\s+/g,'-').toLowerCase()+"/videos\"><i class=\"ico ico-clips\">Clips</i></a>"
+				+"<a class=\"track\" title=\"Dados do "+member.gametag+"\" target=\"_blank\" href=\"https://battlefieldtracker.com/bfv/profile/xbl/"+member.gametag+"/overview\"><i class=\"ico ico-track\">Tracker</i></a>"
+				+"<a class=\"clips\" title=\"Clipes do "+member.gametag+" no gamerdvr\" target=\"_blank\" href=\"https://gamerdvr.com/gamer/"+member.gametag.replace(/\s+/g,'-').toLowerCase()+"/videos\"><i class=\"ico ico-clips\">Clips gamerdvr</i></a>"
+				+"<a class=\"clips\" title=\"Clipes do "+member.gametag+" no xboxclips\" target=\"_blank\" href=\"https://xboxclips.com/"+member.gametag.replace(/\s+/g,'+')+"/\"><i class=\"ico ico-xclips\">Clips xboxclips</i></a>"
 				+"<a class=\"clips\" title=\"Assista a live do "+member.gametag+" no Mixer\" target=\"_blank\" href=\"https://mixer.com/"+member.gametag.replace(/\s+/g,'_')+"/\"><i class=\"ico ico-mixer\">Mixer</i></a>"
 				+"</span></div></li>");
 		});
