@@ -109,7 +109,6 @@ function carregarMembros(){
 				return _listMembers;
 		}
 	});
-	$('.count-member').html(_listMembers.length);
 }
 
 $.date = function(dateObject) {
@@ -144,6 +143,8 @@ function lineMembers(data){
 				+"</span></div></li>");
 		});
 		mtoasty();
+		
+	$('.count-member').html(member.length);
 }
 
 function listSkulls(data){
