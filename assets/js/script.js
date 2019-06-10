@@ -47,7 +47,10 @@ function toggleMenu(){
 	}
 };
 
-$(window).on('load', scrolltotop_position);
+$(window).on('load', function(){
+	scrolltotop_position();	
+	$('.count-member').html(_skulls.length);
+});
 $(window).on('scroll',function(){
 	scrolltotop_display();
 	closeMenu();
@@ -143,8 +146,6 @@ function lineMembers(data){
 				+"</span></div></li>");
 		});
 		mtoasty();
-		
-	$('.count-member').html(member.length);
 }
 
 function listSkulls(data){
@@ -155,7 +156,7 @@ function listSkulls(data){
 }
 
 function randomSkulls(data){
-		$(".brasao").html('<img class="logo" src="assets/images/skulls/fury-skull-'+data[Math.floor(Math.random() * data.length)]+'.png" alt="Skull Fury of the Killers">');
+	 	$(".brasao").html('<img class="logo" src="assets/images/skulls/fury-skull-'+data[Math.floor(Math.random() * data.length)]+'.png" alt="Skull Fury of the Killers">');
 }
 
 var mtoasty = function () {
