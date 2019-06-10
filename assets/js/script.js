@@ -29,7 +29,7 @@ $(document).ready(function(){
 			e.preventDefault();
 			toggleMenu();
 		});
-
+		$('.count-member').html(_listMembers.length);			
 });
 
 function openMenu(){
@@ -139,7 +139,8 @@ function lineMembers(data){
 				+"<a class=\"track\" title=\"Dados do "+member.gametag+"\" target=\"_blank\" href=\"https://battlefieldtracker.com/bfv/profile/xbl/"+member.gametag+"/overview\"><i class=\"ico ico-track\">Tracker</i></a>"
 				+"<a class=\"clips\" title=\"Clipes do "+member.gametag+" no gamerdvr\" target=\"_blank\" href=\"https://gamerdvr.com/gamer/"+member.gametag.replace(/\s+/g,'-').toLowerCase()+"/videos\"><i class=\"ico ico-clips\">Clips gamerdvr</i></a>"
 				+"<a class=\"clips\" title=\"Clipes do "+member.gametag+" no xboxclips\" target=\"_blank\" href=\"https://xboxclips.com/"+member.gametag.replace(/\s+/g,'+')+"/\"><i class=\"ico ico-xclips\">Clips xboxclips</i></a>"
-				+"<a class=\"clips\" title=\"Assista a live do "+member.gametag+" no Mixer\" target=\"_blank\" href=\"https://mixer.com/"+member.gametag.replace(/\s+/g,'_')+"/\"><i class=\"ico ico-mixer\">Mixer</i></a>"
+				+"<a class=\"mixer\" title=\"Assista a live do "+member.gametag+" no Mixer\" target=\"_blank\" href=\"https://mixer.com/"+member.gametag.replace(/\s+/g,'_')+"/\"><i class=\"ico ico-mixer\">Mixer</i></a>"
+				+"<a class=\"drive\" title=\"Arquivos do "+member.gametag+" dentro do clã\" target=\"_blank\" href=\"https://drive.google.com/open?id="+member.drive+"\"><i class=\"ico ico-drive\">Arquivos no Google Drive</i></a>"
 				+"</span></div></li>");
 		});
 		mtoasty();

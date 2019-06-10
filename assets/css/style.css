@@ -308,6 +308,11 @@ a {
 	mask-image: url('../images/icons/iconmonstr-gamepad-17.svg');
 	-webkit-mask-image: url('../images/icons/iconmonstr-gamepad-17.svg');
 }
+.ico-drive {
+	background-color: #333333;
+	mask-image: url('../images/icons/iconmonstr-inbox-21.svg');
+	-webkit-mask-image: url('../images/icons/iconmonstr-inbox-21.svg');
+}
 
 .buttons .btn {
 	margin-right: 1.275em;
