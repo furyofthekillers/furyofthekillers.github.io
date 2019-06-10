@@ -29,7 +29,6 @@ $(document).ready(function(){
 			e.preventDefault();
 			toggleMenu();
 		});
-		$('.count-member').html(_listMembers.length);			
 });
 
 function openMenu(){
@@ -91,35 +90,36 @@ function aspectRadio(){
 }
 
 function carregarMembros(){
-		$.ajax({
-				type: "GET",
-				url: "assets/json/members.json",
-				timeout: 3000,
-				datatype: 'JSON',
-				contentType: "application/json; charset=utf-8",
-				cache: false,
-				error: function() {
-						console.log("O servidor não conseguiu carregar os membros");
-				},
-				success: function(data) {
-						$.each(data.members,function(i, member) {
-								_listMembers.push(member);
-						});
-						listSkulls(_listMembers);
-						lineMembers(_listMembers);
-						return _listMembers;
-				}
-		});
+	$.ajax({
+		type: "GET",
+		url: "assets/json/members.json",
+		timeout: 3000,
+		datatype: 'JSON',
+		contentType: "application/json; charset=utf-8",
+		cache: false,
+		error: function() {
+				console.log("O servidor não conseguiu carregar os membros");
+		},
+		success: function(data) {
+				$.each(data.members,function(i, member) {
+						_listMembers.push(member);
+				});
+				listSkulls(_listMembers);
+				lineMembers(_listMembers);
+				return _listMembers;
+		}
+	});
+	$('.count-member').html(_listMembers.length);
 }
 
 $.date = function(dateObject) {
-		var d = new Date(dateObject);
-		var day = d.getDate();
-		var month = d.getMonth() + 1;
-		if (day < 10) { day = "0" + day; }
-		if (month < 10) { month = "0" + month; }
-		var date = day + "/" + month;
-		return date;
+	var d = new Date(dateObject);
+	var day = d.getDate();
+	var month = d.getMonth() + 1;
+	if (day < 10) { day = "0" + day; }
+	if (month < 10) { month = "0" + month; }
+	var date = day + "/" + month;
+	return date;
 };
 
 var _day    = new Date();
