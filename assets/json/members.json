@@ -43,7 +43,7 @@
 			"patent": "coronel",
 			"skull": "medic",
 			"drive": "1aTaGK1RFkVGS6YMhxUGjCtI89GvYTHVK",
-			"line": "casual"
+			"line": "competitive"
 		},
 		{
 			"gametag": "DivooX",
@@ -70,6 +70,15 @@
 			"patent": "tenente",
 			"skull": "diablo-nemesis",
 			"drive": "1vF-NC2kDxKFtZFMKzdciu-g9T7pT8uuB",
+			"line": "competitive"
+		},
+		{
+			"gametag": "ManoDrako09",
+			"name": "Emmanuel Fernandes da Costa",
+			"date": "09/02/1990",
+			"patent": "tenente",
+			"skull": "wolverine",
+			"drive": "1B2b2za_SLbrVO_LK2iI8h-hOoiIXXG6g",
 			"line": "casual"
 		},
 		{
@@ -88,7 +97,7 @@
 			"patent": "sargento",
 			"skull": "mengele",
 			"drive": "14IfT2wuCYAHf2rLEB963dyNO9NqR3aVa",
-			"line": "casual"
+			"line": "competitive"
 		},
 		{
 			"gametag": "eryckzocher",
@@ -106,7 +115,7 @@
 			"patent": "cabo",
 			"skull": "dead-king",
 			"drive": "1e0bb3CSqPIgG0Rhbh9uPoScg_zCgAK-x",
-			"line": "casual"
+			"line": "competitive"
 		},
 		{
 			"gametag": "JonathanR77",
@@ -118,22 +127,13 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "ManoDrako09",
-			"name": "Emmanuel Fernandes da Costa",
-			"date": "09/02/1990",
-			"patent": "cabo",
-			"skull": "wolverine",
-			"drive": "1B2b2za_SLbrVO_LK2iI8h-hOoiIXXG6g",
-			"line": "casual"
-		},
-		{
 			"gametag": "J4cK5oNHunTer",
 			"name": "Jackson Henrique",
 			"date": "09/12/1985",
 			"patent": "cabo",
 			"skull": "barba",
 			"drive": "1Yij9iYHpDw9CrucuXFza751R5F-dexux",
-			"line": "casual"
+			"line": "competitive"
 		},
 		{
 			"gametag": "x TraayWaay",
@@ -142,7 +142,7 @@
 			"patent": "cabo",
 			"skull": "cowboy",
 			"drive": "128MWKe1YBeztSiq-YnFhmkdt22VSgeCX",
-			"line": "casual"
+			"line": "competitive"
 		},
 		{
 			"gametag": "CowboyCubano",
@@ -151,7 +151,7 @@
 			"patent": "cabo",
 			"skull": "cowboy-cubano",
 			"drive": "1_GtX3XfVpeMlC2aWdEJr7H3KxdKZ4nMw",
-			"line": "casual"
+			"line": "competitive"
 		},
 		{
 			"gametag": "CabralBsB",
@@ -169,7 +169,7 @@
 			"patent": "soldado",
 			"skull": "wonder-woman",
 			"drive": "1plWIwIirRkFBw4HMlYYtTii_LhIjOW0u",
-			"line": "casual"
+			"line": "competitive"
 		},
 		{
 			"gametag": "VinyCustodio",
@@ -178,7 +178,7 @@
 			"patent": "soldado",
 			"skull": "bandana",
 			"drive": "1TBDQ-UUvitJ6gD9-l0uMTGEE6kbAo2rI",
-			"line": "casual"
+			"line": "competitive"
 		},
 		{
 			"gametag": "BahiaExterminio",
@@ -196,7 +196,7 @@
 			"patent": "soldado",
 			"skull": "pizza",
 			"drive": "1qT6FuGTAEdZfxysKUamJHulADCPF9UYm",
-			"line": "casual"
+			"line": "competitive"
 		},
 		{
 			"gametag": "Xx7bitxX",
@@ -205,7 +205,7 @@
 			"patent": "soldado",
 			"skull": "base",
 			"drive": "1N9KihOpp2P5cNlC18HBpdR_e8RgOLM7U",
-			"line": "casual"
+			"line": "competitive"
 		}
 	],
 	"old_members": [
