@@ -160,7 +160,7 @@
 			"gametag": "CabralBsB",
 			"name": "Deivid Rodrigues Cabral",
 			"date": "17/02/1989",
-			"patent": "soldado",
+			"patent": "cabo",
 			"skull": "kratos",
 			"drive": "173cBg0iXTtkH_L46ofZ1DTx7YxHVDqeh",
 			"line": "casual"
@@ -169,7 +169,7 @@
 			"gametag": "NattyFalcao",
 			"name": "Natália Falcão",
 			"date": "25/12/1994",
-			"patent": "soldado",
+			"patent": "cabo",
 			"skull": "wonder-woman",
 			"drive": "1plWIwIirRkFBw4HMlYYtTii_LhIjOW0u",
 			"line": "competitive"
@@ -178,7 +178,7 @@
 			"gametag": "VinyCustodio",
 			"name": "Vinícius Custódio",
 			"date": "28/07/1985",
-			"patent": "soldado",
+			"patent": "cabo",
 			"skull": "bandana",
 			"drive": "1TBDQ-UUvitJ6gD9-l0uMTGEE6kbAo2rI",
 			"line": "competitive"
@@ -187,7 +187,7 @@
 			"gametag": "BahiaExterminio",
 			"name": "Jackson Ferreira da Silva",
 			"date": "19/09/1983",
-			"patent": "soldado",
+			"patent": "cabo",
 			"skull": "nemesis",
 			"drive": "1hsvKVanIxqjKSHzGhbSVJ5h9SAgScrkJ",
 			"line": "casual"
@@ -196,9 +196,18 @@
 			"gametag": "ResolvedPizza38",
 			"name": "Inácio Cardoso de Oliveira",
 			"date": "16/05/1995",
-			"patent": "soldado",
+			"patent": "cabo",
 			"skull": "pizza",
 			"drive": "1qT6FuGTAEdZfxysKUamJHulADCPF9UYm",
+			"line": "competitive"
+		},
+		{
+			"gametag": "Barbabranca22",
+			"name": "Gabriel Neves De Amorim",
+			"date": "12/04/1996",
+			"patent": "cabo",
+			"skull": "barba-branca",
+			"drive": "1FFiUWUt5FLsdlBbk9NgPfnDQMhKgUkIG",
 			"line": "competitive"
 		},
 		{
@@ -212,13 +221,13 @@
 			"line": "competitive"
 		},
 		{
-			"gametag": "Barbabranca22",
-			"name": "Gabriel Neves De Amorim",
-			"date": "12/04/1996",
+			"gametag": "SrLOU1S",
+			"name": "Luís Fernando L. Fernandes",
+			"date": "22/12/2001",
 			"patent": "soldado",
-			"skull": "barba-branca",
-			"drive": "1FFiUWUt5FLsdlBbk9NgPfnDQMhKgUkIG",
-			"line": "competitive"
+			"skull": "base",
+			"drive": "1JwwJI2sUFIf3j-j5sdyrYkIyao99qyti",
+			"line": "casual"
 		}
 	],
 	"old_members": [
