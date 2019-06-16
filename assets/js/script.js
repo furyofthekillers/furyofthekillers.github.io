@@ -126,12 +126,18 @@ $.date = function(dateObject) {
 
 var _day    = new Date();
 var _today  = $.date(_day);
+var _mixer  = false;
 
 function lineMembers(data){
 		$.each(data, function( i, member ) {
 				var bday = member.date.substring(0, 5);
 				var happy = '';
 				if(_today == bday) { var happy = ' bday'; }
+				if(member.mixer){
+					_mixer = member.mixer.replace(/\s+/g,'_');
+				} else {					
+					_mixer = member.gametag.replace(/\s+/g,'_');
+				}
 				$(".members").append("<li class=\"center-xs col-lg-3 col-md-3 col-sm-6 col-xs-12\"><div class=\"member"+happy+"\"><span class=\"skulls\"><img src=\"assets/images/skulls/fury-skull-"
 				+member.skull+".png\" alt=\"\" class=\"skull "+member.skull+"\"></span><div class=\"data start-xs\"><h4 class=\"gametag\">"
 				+member.gametag+"</h4><p class=\"name\">"
@@ -141,7 +147,7 @@ function lineMembers(data){
 				+"<a class=\"track\" title=\"Dados do "+member.gametag+"\" target=\"_blank\" href=\"https://battlefieldtracker.com/bfv/profile/xbl/"+member.gametag+"/overview\"><i class=\"ico ico-track\">Tracker</i></a>"
 				+"<a class=\"clips\" title=\"Clipes do "+member.gametag+" no gamerdvr\" target=\"_blank\" href=\"https://gamerdvr.com/gamer/"+member.gametag.replace(/\s+/g,'-').toLowerCase()+"/videos\"><i class=\"ico ico-clips\">Clips gamerdvr</i></a>"
 				+"<a class=\"clips\" title=\"Clipes do "+member.gametag+" no xboxclips\" target=\"_blank\" href=\"https://xboxclips.com/"+member.gametag.replace(/\s+/g,'+')+"/\"><i class=\"ico ico-xclips\">Clips xboxclips</i></a>"
-				+"<a class=\"mixer\" title=\"Assista a live do "+member.gametag+" no Mixer\" target=\"_blank\" href=\"https://mixer.com/"+member.gametag.replace(/\s+/g,'_')+"/\"><i class=\"ico ico-mixer\">Mixer</i></a>"
+				+"<a class=\"mixer\" title=\"Assista a live do "+member.gametag+" no Mixer\" target=\"_blank\" href=\"https://mixer.com/"+_mixer+"/\"><i class=\"ico ico-mixer\">Mixer</i></a>"
 				+"<a class=\"drive\" title=\"Arquivos do "+member.gametag+" dentro do clã\" target=\"_blank\" href=\"https://drive.google.com/open?id="+member.drive+"\"><i class=\"ico ico-drive\">Arquivos no Google Drive</i></a>"
 				+"</span></div></li>");
 		});
