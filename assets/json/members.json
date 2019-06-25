@@ -120,15 +120,6 @@
 			"line": "competitive"
 		},
 		{
-			"gametag": "JonathanR77",
-			"name": "Jonathan Rodrigues Campos",
-			"date": "08/02/2002",
-			"patent": "cabo",
-			"skull": "coringa",
-			"drive": "1ksFeeEDqpNf_8u46OEnjIz7Z_lNEz9dK",
-			"line": "casual"
-		},
-		{
 			"gametag": "J4cK5oNHunTer",
 			"name": "Jackson Henrique",
 			"date": "09/12/1985",
@@ -278,6 +269,15 @@
 			"date": "06/06/2000",
 			"patent": "soldado",
 			"skull": "base",
+			"line": "casual"
+		},
+		{
+			"gametag": "JonathanR77",
+			"name": "Jonathan Rodrigues Campos",
+			"date": "08/02/2002",
+			"patent": "cabo",
+			"skull": "coringa",
+			"drive": "1ksFeeEDqpNf_8u46OEnjIz7Z_lNEz9dK",
 			"line": "casual"
 		}
 	],
