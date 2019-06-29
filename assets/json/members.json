@@ -84,15 +84,6 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "lLeo m1ur4",
-			"name": "Leonardo Ferreira",
-			"date": "14/03/1986",
-			"patent": "sargento",
-			"skull": "desmond",
-			"drive": "1u8Cu8fpNu8Ge0vKI8d3Ul6p9gOHZgK3m",
-			"line": "casual"
-		},
-		{
 			"gametag": "Luiz Angelo",
 			"name": "Luiz Angelo Cerri Neto",
 			"date": "05/04/1985",
@@ -121,31 +112,23 @@
 			"line": "competitive"
 		},
 		{
-			"gametag": "jAcKs0n MaTaDor",
+			"gametag": "yzZ JACKSON Zzy",
 			"name": "Jackson Henrique",
 			"date": "09/12/1985",
 			"patent": "cabo",
 			"skull": "barba",
 			"drive": "1Yij9iYHpDw9CrucuXFza751R5F-dexux",
+			"mixer": "J4cK5oNHunTer",
 			"line": "competitive"
 		},
 		{
-			"gametag": "x TreeyWaay",
-			"name": "Nitinho de Souza Santiago",
-			"date": "10/02/1997",
-			"patent": "cabo",
-			"skull": "treyway",
-			"drive": "128MWKe1YBeztSiq-YnFhmkdt22VSgeCX",
-			"mixer": "x TraayWaay",
-			"line": "competitive"
-		},
-		{
-			"gametag": "CowboyCubano",
+			"gametag": "XAlabamaCowboyX",
 			"name": "Gabriel Firakovski",
 			"date": "11/09/2000",
 			"patent": "cabo",
 			"skull": "cowboy-cubano",
 			"drive": "1_GtX3XfVpeMlC2aWdEJr7H3KxdKZ4nMw",
+			"mixer": "CowboyCubano",
 			"line": "competitive"
 		},
 		{
@@ -280,6 +263,25 @@
 			"patent": "soldado",
 			"skull": "base",
 			"line": "casual"
+		},
+		{
+			"gametag": "lLeo m1ur4",
+			"name": "Leonardo Ferreira",
+			"date": "14/03/1986",
+			"patent": "sargento",
+			"skull": "desmond",
+			"drive": "1u8Cu8fpNu8Ge0vKI8d3Ul6p9gOHZgK3m",
+			"line": "casual"
+		},
+		{
+			"gametag": "x TreeyWaay",
+			"name": "Nitinho de Souza Santiago",
+			"date": "10/02/1997",
+			"patent": "cabo",
+			"skull": "treyway",
+			"drive": "128MWKe1YBeztSiq-YnFhmkdt22VSgeCX",
+			"mixer": "x TraayWaay",
+			"line": "competitive"
 		},
 		{
 			"gametag": "JonathanR77",
