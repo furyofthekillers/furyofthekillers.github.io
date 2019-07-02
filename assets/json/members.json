@@ -172,7 +172,7 @@
 			"name": "Inácio Cardoso de Oliveira",
 			"date": "16/05/1995",
 			"patent": "cabo",
-			"skull": "pizza",
+			"skull": "lindinha",
 			"drive": "1qT6FuGTAEdZfxysKUamJHulADCPF9UYm",
 			"mixer": "ResolvedPizza38",
 			"line": "competitive"
@@ -182,7 +182,7 @@
 			"name": "Gabriel Neves De Amorim",
 			"date": "12/04/1996",
 			"patent": "cabo",
-			"skull": "barba-branca",
+			"skull": "docinho",
 			"drive": "1FFiUWUt5FLsdlBbk9NgPfnDQMhKgUkIG",
 			"mixer": "DoKa22",
 			"line": "competitive"
@@ -231,6 +231,15 @@
 			"patent": "soldado",
 			"skull": "base",
 			"drive": "1E3kKpNSps99PbqOPv9iHGyVgjlPlOnHQ",
+			"line": "casual"
+		},
+		{
+			"gametag": "ThaysBsB",
+			"name": "Thays de Carvalho Cabral",
+			"date": "03/02/2000",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "11bNUtiDNTLBwbBDk3GO6w4Hi_YXEHtC5",
 			"line": "casual"
 		}
 	],
