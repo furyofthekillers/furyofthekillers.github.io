@@ -234,15 +234,6 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "ColdLord Gold",
-			"name": "Gustavo Fabre Fernandes",
-			"date": "26/02/2002",
-			"patent": "soldado",
-			"skull": "base",
-			"drive": "1E3kKpNSps99PbqOPv9iHGyVgjlPlOnHQ",
-			"line": "casual"
-		},
-		{
 			"gametag": "ThaysBsB",
 			"name": "Thays de Carvalho Cabral",
 			"date": "03/02/2000",
@@ -311,6 +302,15 @@
 			"drive": "128MWKe1YBeztSiq-YnFhmkdt22VSgeCX",
 			"mixer": "x TraayWaay",
 			"line": "competitive"
+		},
+		{
+			"gametag": "ColdLord Gold",
+			"name": "Gustavo Fabre Fernandes",
+			"date": "26/02/2002",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "1E3kKpNSps99PbqOPv9iHGyVgjlPlOnHQ",
+			"line": "casual"
 		},
 		{
 			"gametag": "JonathanR77",
