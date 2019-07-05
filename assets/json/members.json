@@ -103,16 +103,6 @@
 			"line": "competitive"
 		},
 		{
-			"gametag": "Gevegier",
-			"name": "Diego da Silva G. Tramontana",
-			"date": "30/09/1986",
-			"patent": "cabo",
-			"skull": "dead-king",
-			"drive": "1tHGjDEea1BDm-g4hcgRxVbpP-OdDdTNA",
-			"mixer": "Pouca Sombra22",
-			"line": "casual"
-		},
-		{
 			"gametag": "yzZ JACKSON Zzy",
 			"name": "Jackson Henrique",
 			"date": "09/12/1985",
@@ -320,6 +310,16 @@
 			"patent": "soldado",
 			"skull": "base",
 			"drive": "1E3kKpNSps99PbqOPv9iHGyVgjlPlOnHQ",
+			"line": "casual"
+		},
+		{
+			"gametag": "Gevegier",
+			"name": "Diego da Silva G. Tramontana",
+			"date": "30/09/1986",
+			"patent": "cabo",
+			"skull": "dead-king",
+			"drive": "1tHGjDEea1BDm-g4hcgRxVbpP-OdDdTNA",
+			"mixer": "Pouca Sombra22",
 			"line": "casual"
 		},
 		{
