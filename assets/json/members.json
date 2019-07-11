@@ -56,6 +56,16 @@
 			"line": "competitive"
 		},
 		{
+			"gametag": "TrapZ x NEMEZYS",
+			"name": "Kauan Felipe Silva dos Santos",
+			"date": "21/02/1991",
+			"patent": "coronel",
+			"skull": "diablo-nemesis",
+			"drive": "1vF-NC2kDxKFtZFMKzdciu-g9T7pT8uuB",
+			"mixer": "DEUS_v_zKraazY",
+			"line": "competitive"
+		},
+		{
 			"gametag": "Clex c",
 			"name": "Cleiton Cabral",
 			"date": "30/09/1991",
@@ -63,16 +73,6 @@
 			"skull": "mage",
 			"drive": "1Ozfe98rIA9XNqtY76Y0Wjx-sXvDxPzwP",
 			"line": "casual"
-		},
-		{
-			"gametag": "TrapZ x NEMEZYS",
-			"name": "Kauan Felipe Silva dos Santos",
-			"date": "21/02/1991",
-			"patent": "tenente",
-			"skull": "diablo-nemesis",
-			"drive": "1vF-NC2kDxKFtZFMKzdciu-g9T7pT8uuB",
-			"mixer": "DEUS_v_zKraazY",
-			"line": "competitive"
 		},
 		{
 			"gametag": "ManoDrako09",
@@ -84,20 +84,10 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "XAlabamaCowboyX",
-			"name": "Gabriel Firakovski",
-			"date": "11/09/2000",
-			"patent": "cabo",
-			"skull": "cowboy-cubano",
-			"drive": "1_GtX3XfVpeMlC2aWdEJr7H3KxdKZ4nMw",
-			"mixer": "CowboyCubano",
-			"line": "competitive"
-		},
-		{
 			"gametag": "NattyFalcao",
 			"name": "Natália Falcão",
 			"date": "25/12/1994",
-			"patent": "cabo",
+			"patent": "tenente",
 			"skull": "wonder-woman",
 			"drive": "1plWIwIirRkFBw4HMlYYtTii_LhIjOW0u",
 			"line": "competitive"
@@ -106,7 +96,7 @@
 			"gametag": "VinyCustodio",
 			"name": "Vinícius Custódio",
 			"date": "28/07/1985",
-			"patent": "cabo",
+			"patent": "tenente",
 			"skull": "bandana",
 			"drive": "1TBDQ-UUvitJ6gD9-l0uMTGEE6kbAo2rI",
 			"line": "competitive"
@@ -115,10 +105,20 @@
 			"gametag": "ProLindinha38",
 			"name": "Inácio Cardoso de Oliveira",
 			"date": "16/05/1995",
-			"patent": "cabo",
+			"patent": "tenente",
 			"skull": "lindinha",
 			"drive": "1qT6FuGTAEdZfxysKUamJHulADCPF9UYm",
 			"mixer": "ResolvedPizza38",
+			"line": "competitive"
+		},
+		{
+			"gametag": "Pro Docinho22",
+			"name": "Gabriel Neves De Amorim",
+			"date": "12/04/1996",
+			"patent": "tenente",
+			"skull": "docinho",
+			"drive": "1FFiUWUt5FLsdlBbk9NgPfnDQMhKgUkIG",
+			"mixer": "DoKa22",
 			"line": "competitive"
 		},
 		{
@@ -132,23 +132,23 @@
 			"line": "competitive"
 		},
 		{
-			"gametag": "yzZ JACKSON Zzy",
-			"name": "Jackson Henrique",
-			"date": "09/12/1985",
-			"patent": "cabo",
-			"skull": "barba",
-			"drive": "1Yij9iYHpDw9CrucuXFza751R5F-dexux",
-			"mixer": "J4cK5oNHunTer",
+			"gametag": "XAlabamaCowboyX",
+			"name": "Gabriel Firakovski",
+			"date": "11/09/2000",
+			"patent": "sargento",
+			"skull": "cowboy-cubano",
+			"drive": "1_GtX3XfVpeMlC2aWdEJr7H3KxdKZ4nMw",
+			"mixer": "CowboyCubano",
 			"line": "competitive"
 		},
 		{
-			"gametag": "Pro Docinho22",
-			"name": "Gabriel Neves De Amorim",
-			"date": "12/04/1996",
-			"patent": "cabo",
-			"skull": "docinho",
-			"drive": "1FFiUWUt5FLsdlBbk9NgPfnDQMhKgUkIG",
-			"mixer": "DoKa22",
+			"gametag": "yzZ JACKSON Zzy",
+			"name": "Jackson Henrique",
+			"date": "09/12/1985",
+			"patent": "sargento",
+			"skull": "barba",
+			"drive": "1Yij9iYHpDw9CrucuXFza751R5F-dexux",
+			"mixer": "J4cK5oNHunTer",
 			"line": "competitive"
 		},
 		{
