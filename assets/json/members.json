@@ -84,13 +84,42 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "Luiz Angelo",
-			"name": "Luiz Angelo Cerri Neto",
-			"date": "05/04/1985",
-			"patent": "sargento",
-			"skull": "mengele",
-			"drive": "14IfT2wuCYAHf2rLEB963dyNO9NqR3aVa",
-			"line": "casual"
+			"gametag": "XAlabamaCowboyX",
+			"name": "Gabriel Firakovski",
+			"date": "11/09/2000",
+			"patent": "cabo",
+			"skull": "cowboy-cubano",
+			"drive": "1_GtX3XfVpeMlC2aWdEJr7H3KxdKZ4nMw",
+			"mixer": "CowboyCubano",
+			"line": "competitive"
+		},
+		{
+			"gametag": "NattyFalcao",
+			"name": "Natália Falcão",
+			"date": "25/12/1994",
+			"patent": "cabo",
+			"skull": "wonder-woman",
+			"drive": "1plWIwIirRkFBw4HMlYYtTii_LhIjOW0u",
+			"line": "competitive"
+		},
+		{
+			"gametag": "VinyCustodio",
+			"name": "Vinícius Custódio",
+			"date": "28/07/1985",
+			"patent": "cabo",
+			"skull": "bandana",
+			"drive": "1TBDQ-UUvitJ6gD9-l0uMTGEE6kbAo2rI",
+			"line": "competitive"
+		},
+		{
+			"gametag": "ProLindinha38",
+			"name": "Inácio Cardoso de Oliveira",
+			"date": "16/05/1995",
+			"patent": "cabo",
+			"skull": "lindinha",
+			"drive": "1qT6FuGTAEdZfxysKUamJHulADCPF9UYm",
+			"mixer": "ResolvedPizza38",
+			"line": "competitive"
 		},
 		{
 			"gametag": "MadaraXIndra",
@@ -113,13 +142,13 @@
 			"line": "competitive"
 		},
 		{
-			"gametag": "XAlabamaCowboyX",
-			"name": "Gabriel Firakovski",
-			"date": "11/09/2000",
+			"gametag": "Pro Docinho22",
+			"name": "Gabriel Neves De Amorim",
+			"date": "12/04/1996",
 			"patent": "cabo",
-			"skull": "cowboy-cubano",
-			"drive": "1_GtX3XfVpeMlC2aWdEJr7H3KxdKZ4nMw",
-			"mixer": "CowboyCubano",
+			"skull": "docinho",
+			"drive": "1FFiUWUt5FLsdlBbk9NgPfnDQMhKgUkIG",
+			"mixer": "DoKa22",
 			"line": "competitive"
 		},
 		{
@@ -132,24 +161,6 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "NattyFalcao",
-			"name": "Natália Falcão",
-			"date": "25/12/1994",
-			"patent": "cabo",
-			"skull": "wonder-woman",
-			"drive": "1plWIwIirRkFBw4HMlYYtTii_LhIjOW0u",
-			"line": "competitive"
-		},
-		{
-			"gametag": "VinyCustodio",
-			"name": "Vinícius Custódio",
-			"date": "28/07/1985",
-			"patent": "cabo",
-			"skull": "bandana",
-			"drive": "1TBDQ-UUvitJ6gD9-l0uMTGEE6kbAo2rI",
-			"line": "competitive"
-		},
-		{
 			"gametag": "BahiaExterminio",
 			"name": "Jackson Ferreira da Silva",
 			"date": "19/09/1983",
@@ -157,35 +168,6 @@
 			"skull": "nemesis",
 			"drive": "1hsvKVanIxqjKSHzGhbSVJ5h9SAgScrkJ",
 			"line": "casual"
-		},
-		{
-			"gametag": "ProLindinha38",
-			"name": "Inácio Cardoso de Oliveira",
-			"date": "16/05/1995",
-			"patent": "cabo",
-			"skull": "lindinha",
-			"drive": "1qT6FuGTAEdZfxysKUamJHulADCPF9UYm",
-			"mixer": "ResolvedPizza38",
-			"line": "competitive"
-		},
-		{
-			"gametag": "Pro Docinho22",
-			"name": "Gabriel Neves De Amorim",
-			"date": "12/04/1996",
-			"patent": "cabo",
-			"skull": "docinho",
-			"drive": "1FFiUWUt5FLsdlBbk9NgPfnDQMhKgUkIG",
-			"mixer": "DoKa22",
-			"line": "competitive"
-		},
-		{
-			"gametag": "fabiinIKS",
-			"name": "Fabio José Fontanezzi",
-			"date": "25/02/1993",
-			"patent": "cabo",
-			"skull": "johnwick",
-			"drive": "1YfD4g8S_V_dsg8yS9JdJq7PtQsZh-C95",
-			"line": "competitive"
 		},
 		{
 			"gametag": "SrLOU1S",
@@ -207,30 +189,12 @@
 			"line": "competitive"
 		},
 		{
-			"gametag": "I CTR I AyMaNx",
-			"name": "Guilherme Lopes da Rocha",
-			"date": "27/11/2001",
-			"patent": "soldado",
-			"skull": "base",
-			"drive": "1f-L14y2SNl0F0aicIJSE3nUtEHI0zjao",
-			"line": "casual"
-		},
-		{
 			"gametag": "ShDw MoRaiS",
 			"name": "Piedro Heinrich M. F. e Silva",
 			"date": "20/09/1998",
 			"patent": "soldado",
 			"skull": "base",
 			"drive": "1zrI6TDdmsyM1XvA2rRZd8NvmdMUYc-Uh",
-			"line": "casual"
-		},
-		{
-			"gametag": "ThaysBsB",
-			"name": "Thays de Carvalho Cabral",
-			"date": "03/02/2000",
-			"patent": "soldado",
-			"skull": "base",
-			"drive": "11bNUtiDNTLBwbBDk3GO6w4Hi_YXEHtC5",
 			"line": "casual"
 		},
 		{
@@ -241,6 +205,15 @@
 			"skull": "base",
 			"drive": "1EKw6PcKn5u4m_aO-Vzen4HLF5ENfJcP_",
 			"line": "casual"
+		},
+		{
+			"gametag": "ThaysBsB",
+			"name": "Thays de Carvalho Cabral",
+			"date": "03/02/2000",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "11bNUtiDNTLBwbBDk3GO6w4Hi_YXEHtC5",
+			"line": "casual"
 		}
 	],
 	"old_members": [
@@ -250,6 +223,33 @@
 			"date": "23/03/1989",
 			"patent": "cabo",
 			"skull": "warmachine",
+			"line": "casual"
+		},
+		{
+			"gametag": "Luiz Angelo",
+			"name": "Luiz Angelo Cerri Neto",
+			"date": "05/04/1985",
+			"patent": "sargento",
+			"skull": "mengele",
+			"drive": "14IfT2wuCYAHf2rLEB963dyNO9NqR3aVa",
+			"line": "casual"
+		},
+		{
+			"gametag": "fabiinIKS",
+			"name": "Fabio José Fontanezzi",
+			"date": "25/02/1993",
+			"patent": "cabo",
+			"skull": "johnwick",
+			"drive": "1YfD4g8S_V_dsg8yS9JdJq7PtQsZh-C95",
+			"line": "competitive"
+		},
+		{
+			"gametag": "I CTR I AyMaNx",
+			"name": "Guilherme Lopes da Rocha",
+			"date": "27/11/2001",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "1f-L14y2SNl0F0aicIJSE3nUtEHI0zjao",
 			"line": "casual"
 		},
 		{
