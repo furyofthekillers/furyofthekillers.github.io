@@ -225,15 +225,6 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "STARKS BR",
-			"name": "Everton Matheus Vilas Boas",
-			"date": "18/07/1995",
-			"patent": "soldado",
-			"skull": "base",
-			"drive": "1ff2-pK-6gGJbrepFuBLjwjhIt5dOAvwX",
-			"line": "casual"
-		},
-		{
 			"gametag": "TylerNT85",
 			"name": "Jose Alberto de Moura Alves",
 			"date": "22/06/1994",
@@ -250,6 +241,15 @@
 			"date": "23/03/1989",
 			"patent": "cabo",
 			"skull": "warmachine",
+			"line": "casual"
+		},
+		{
+			"gametag": "STARKS BR",
+			"name": "Everton Matheus Vilas Boas",
+			"date": "18/07/1995",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "1ff2-pK-6gGJbrepFuBLjwjhIt5dOAvwX",
 			"line": "casual"
 		},
 		{
