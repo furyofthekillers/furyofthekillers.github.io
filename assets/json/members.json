@@ -47,15 +47,6 @@
 			"line": "competitive"
 		},
 		{
-			"gametag": "DivooX",
-			"name": "Diego Diniz De Lima Machado",
-			"date": "01/01/1988",
-			"patent": "coronel",
-			"skull": "terminator",
-			"drive": "13RZkBupcfK7HkTb3V-P4hApfhZ8g8TA6",
-			"line": "competitive"
-		},
-		{
 			"gametag": "TrapZ x NEMEZYS",
 			"name": "Kauan Felipe Silva dos Santos",
 			"date": "21/02/1991",
@@ -366,6 +357,15 @@
 			"drive": "1tHGjDEea1BDm-g4hcgRxVbpP-OdDdTNA",
 			"mixer": "Pouca Sombra22",
 			"line": "casual"
+		},
+		{
+			"gametag": "DivooX",
+			"name": "Diego Diniz De Lima Machado",
+			"date": "01/01/1988",
+			"patent": "coronel",
+			"skull": "terminator",
+			"drive": "13RZkBupcfK7HkTb3V-P4hApfhZ8g8TA6",
+			"line": "competitive"
 		},
 		{
 			"gametag": "JonathanR77",
