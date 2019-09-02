@@ -1,23 +1,22 @@
 {
   "members": [
 		{
+			"gametag": "RonaldoPUNISHER",
+			"name": "Ronaldo Mendes de Lima",
+			"date": "13/02/1986",
+			"patent": "general",
+			"skull": "punisher",
+			"drive": "1NPHATr1VCYV5LnFaOboYR7zwyiKjI6rj",
+			"line": "casual"
+		},
+		{
 			"gametag": "Al3xONE1",
 			"name": "Alexandre Coelho Pereira",
 			"date": "23/04/1988",
-			"patent": "general",
+			"patent": "coronel",
 			"skull": "sniper",
 			"drive": "1a2smHq90krhpC1d8hVch9-LPmuT9wP71",
-			"line": "competitive"
-		},
-		{
-			"gametag": "FURY JairoCE",
-			"name": "Jairo de Lima Silva",
-			"date": "09/03/1983",
-			"patent": "coronel",
-			"skull": "rambo",
-			"drive": "1tHCup0WqjzlaCgB3YjFwCyIGwXBUZcoD",
-			"mixer": "Jairo Lima CE",
-			"line": "competitive"
+			"line": "casual"
 		},
 		{
 			"gametag": "EvilSchluters",
@@ -29,24 +28,6 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "RonaldoPUNISHER",
-			"name": "Ronaldo Mendes de Lima",
-			"date": "13/02/1986",
-			"patent": "coronel",
-			"skull": "punisher",
-			"drive": "1NPHATr1VCYV5LnFaOboYR7zwyiKjI6rj",
-			"line": "competitive"
-		},
-		{
-			"gametag": "marciogaroupa",
-			"name": "Marcio Rosa Martins",
-			"date": "28/05/1977",
-			"patent": "coronel",
-			"skull": "medic",
-			"drive": "1aTaGK1RFkVGS6YMhxUGjCtI89GvYTHVK",
-			"line": "competitive"
-		},
-		{
 			"gametag": "TrapZ x NEMEZYS",
 			"name": "Kauan Felipe Silva dos Santos",
 			"date": "21/02/1991",
@@ -54,15 +35,42 @@
 			"skull": "diablo-nemesis",
 			"drive": "1vF-NC2kDxKFtZFMKzdciu-g9T7pT8uuB",
 			"mixer": "DEUS_v_zKraazY",
-			"line": "competitive"
+			"line": "casual"
 		},
 		{
 			"gametag": "Clex c",
 			"name": "Cleiton Cabral",
 			"date": "30/09/1991",
-			"patent": "tenente",
+			"patent": "coronel",
 			"skull": "mage",
 			"drive": "1Ozfe98rIA9XNqtY76Y0Wjx-sXvDxPzwP",
+			"line": "casual"
+		},
+		{
+			"gametag": "NattyFalcao",
+			"name": "Natália Falcão",
+			"date": "25/12/1994",
+			"patent": "coronel",
+			"skull": "wonder-woman",
+			"drive": "1plWIwIirRkFBw4HMlYYtTii_LhIjOW0u",
+			"line": "casual"
+		},
+		{
+			"gametag": "VinyCustodio",
+			"name": "Vinícius Custódio",
+			"date": "28/07/1985",
+			"patent": "coronel",
+			"skull": "bandana",
+			"drive": "1TBDQ-UUvitJ6gD9-l0uMTGEE6kbAo2rI",
+			"line": "casual"
+		},
+		{
+			"gametag": "BahiaExterminio",
+			"name": "Jackson Ferreira da Silva",
+			"date": "19/09/1983",
+			"patent": "coronel",
+			"skull": "nemesis",
+			"drive": "1hsvKVanIxqjKSHzGhbSVJ5h9SAgScrkJ",
 			"line": "casual"
 		},
 		{
@@ -75,22 +83,23 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "NattyFalcao",
-			"name": "Natália Falcão",
-			"date": "25/12/1994",
+			"gametag": "FURY JairoCE",
+			"name": "Jairo de Lima Silva",
+			"date": "09/03/1983",
 			"patent": "tenente",
-			"skull": "wonder-woman",
-			"drive": "1plWIwIirRkFBw4HMlYYtTii_LhIjOW0u",
-			"line": "competitive"
+			"skull": "rambo",
+			"drive": "1tHCup0WqjzlaCgB3YjFwCyIGwXBUZcoD",
+			"mixer": "Jairo Lima CE",
+			"line": "casual"
 		},
 		{
-			"gametag": "VinyCustodio",
-			"name": "Vinícius Custódio",
-			"date": "28/07/1985",
+			"gametag": "marciogaroupa",
+			"name": "Marcio Rosa Martins",
+			"date": "28/05/1977",
 			"patent": "tenente",
-			"skull": "bandana",
-			"drive": "1TBDQ-UUvitJ6gD9-l0uMTGEE6kbAo2rI",
-			"line": "competitive"
+			"skull": "medic",
+			"drive": "1aTaGK1RFkVGS6YMhxUGjCtI89GvYTHVK",
+			"line": "casual"
 		},
 		{
 			"gametag": "ProLindinha38",
@@ -100,17 +109,7 @@
 			"skull": "lindinha",
 			"drive": "1qT6FuGTAEdZfxysKUamJHulADCPF9UYm",
 			"mixer": "ResolvedPizza38",
-			"line": "competitive"
-		},
-		{
-			"gametag": "Pro Docinho22",
-			"name": "Gabriel Neves De Amorim",
-			"date": "12/04/1996",
-			"patent": "tenente",
-			"skull": "docinho",
-			"drive": "1FFiUWUt5FLsdlBbk9NgPfnDQMhKgUkIG",
-			"mixer": "DoKa22",
-			"line": "competitive"
+			"line": "casual"
 		},
 		{
 			"gametag": "MadaraXIndra",
@@ -120,27 +119,7 @@
 			"skull": "itachi",
 			"drive": "1FjR3Cq1l8nl7uOLe1s5ghoQgH1oESMSA",
 			"mixer": "eryckzocher",
-			"line": "competitive"
-		},
-		{
-			"gametag": "XAlabamaCowboyX",
-			"name": "Gabriel Firakovski",
-			"date": "11/09/2000",
-			"patent": "sargento",
-			"skull": "cowboy-cubano",
-			"drive": "1_GtX3XfVpeMlC2aWdEJr7H3KxdKZ4nMw",
-			"mixer": "CowboyCubano",
-			"line": "competitive"
-		},
-		{
-			"gametag": "yzZ JACKSON Zzy",
-			"name": "Jackson Henrique",
-			"date": "09/12/1985",
-			"patent": "sargento",
-			"skull": "barba",
-			"drive": "1Yij9iYHpDw9CrucuXFza751R5F-dexux",
-			"mixer": "J4cK5oNHunTer",
-			"line": "competitive"
+			"line": "casual"
 		},
 		{
 			"gametag": "CabralBsB",
@@ -152,22 +131,13 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "BahiaExterminio",
-			"name": "Jackson Ferreira da Silva",
-			"date": "19/09/1983",
-			"patent": "cabo",
-			"skull": "nemesis",
-			"drive": "1hsvKVanIxqjKSHzGhbSVJ5h9SAgScrkJ",
-			"line": "casual"
-		},
-		{
 			"gametag": "SrLOU1S",
 			"name": "Luís Fernando L. Fernandes",
 			"date": "22/12/2001",
 			"patent": "cabo",
 			"skull": "helmet",
 			"drive": "1JwwJI2sUFIf3j-j5sdyrYkIyao99qyti",
-			"line": "competitive"
+			"line": "casual"
 		},
 		{
 			"gametag": "II7BiTII",
@@ -177,24 +147,6 @@
 			"skull": "base",
 			"drive": "1oHTVvbLGaXEesJYk3ciR8acfLdntUNUv",
 			"mixer": "Xx7bitxX",
-			"line": "competitive"
-		},
-		{
-			"gametag": "ShDw MoRaiS",
-			"name": "Piedro Heinrich M. F. e Silva",
-			"date": "20/09/1998",
-			"patent": "soldado",
-			"skull": "base",
-			"drive": "1zrI6TDdmsyM1XvA2rRZd8NvmdMUYc-Uh",
-			"line": "casual"
-		},
-		{
-			"gametag": "BLACKBURN FE",
-			"name": "Felipe Henrique A. Bazon",
-			"date": "14/02/1997",
-			"patent": "soldado",
-			"skull": "base",
-			"drive": "1EKw6PcKn5u4m_aO-Vzen4HLF5ENfJcP_",
 			"line": "casual"
 		},
 		{
@@ -216,30 +168,21 @@
 			"line": "casual"
 		},
 		{
-			"gametag": "TylerNT85",
-			"name": "Jose Alberto de Moura Alves",
-			"date": "22/06/1994",
-			"patent": "soldado",
-			"skull": "base",
-			"drive": "1_MXd52j0yTXGk4wNypEP7owMckhzpGjF",
-			"line": "casual"
-		},
-		{
-			"gametag": "KikoChitaozinho",
-			"name": "Felipe Santosde Carvalho",
-			"date": "19/06/2001",
-			"patent": "soldado",
-			"skull": "base",
-			"drive": "1xIhTlK18wroG0N-WO7rrdNxQfVMBmRuA",
-			"line": "casual"
-		},
-		{
 			"gametag": "GePROZiM",
 			"name": "Gerson de Almeida Neves",
 			"date": "28/08/1987",
 			"patent": "soldado",
 			"skull": "base",
 			"drive": "1urCy0duawQ9UiplyJEA5a50AuvTMuNSo",
+			"line": "casual"
+		},
+		{
+			"gametag": "Sequenc1a",
+			"name": "Leonardo Peres",
+			"date": "20/09/1996",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "1ibnldILiTbJYetMApJt4zL9HppNLeJsf",
 			"line": "casual"
 		}
 	],
@@ -250,6 +193,72 @@
 			"date": "23/03/1989",
 			"patent": "cabo",
 			"skull": "warmachine",
+			"line": "casual"
+		},
+		{
+			"gametag": "Pro Docinho22",
+			"name": "Gabriel Neves De Amorim",
+			"date": "12/04/1996",
+			"patent": "tenente",
+			"skull": "docinho",
+			"drive": "1FFiUWUt5FLsdlBbk9NgPfnDQMhKgUkIG",
+			"mixer": "DoKa22",
+			"line": "casual"
+		},
+		{
+			"gametag": "XAlabamaCowboyX",
+			"name": "Gabriel Firakovski",
+			"date": "11/09/2000",
+			"patent": "sargento",
+			"skull": "cowboy-cubano",
+			"drive": "1_GtX3XfVpeMlC2aWdEJr7H3KxdKZ4nMw",
+			"mixer": "CowboyCubano",
+			"line": "casual"
+		},
+		{
+			"gametag": "yzZ JACKSON Zzy",
+			"name": "Jackson Henrique",
+			"date": "09/12/1985",
+			"patent": "sargento",
+			"skull": "barba",
+			"drive": "1Yij9iYHpDw9CrucuXFza751R5F-dexux",
+			"mixer": "J4cK5oNHunTer",
+			"line": "casual"
+		},
+		{
+			"gametag": "TylerNT85",
+			"name": "Jose Alberto de Moura Alves",
+			"date": "22/06/1994",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "1_MXd52j0yTXGk4wNypEP7owMckhzpGjF",
+			"line": "casual"
+		},
+		{
+			"gametag": "ShDw MoRaiS",
+			"name": "Piedro Heinrich M. F. e Silva",
+			"date": "20/09/1998",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "1zrI6TDdmsyM1XvA2rRZd8NvmdMUYc-Uh",
+			"line": "casual"
+		},
+		{
+			"gametag": "BLACKBURN FE",
+			"name": "Felipe Henrique A. Bazon",
+			"date": "14/02/1997",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "1EKw6PcKn5u4m_aO-Vzen4HLF5ENfJcP_",
+			"line": "casual"
+		},
+		{
+			"gametag": "KikoChitaozinho",
+			"name": "Felipe Santosde Carvalho",
+			"date": "19/06/2001",
+			"patent": "soldado",
+			"skull": "base",
+			"drive": "1xIhTlK18wroG0N-WO7rrdNxQfVMBmRuA",
 			"line": "casual"
 		},
 		{
@@ -277,7 +286,7 @@
 			"patent": "cabo",
 			"skull": "johnwick",
 			"drive": "1YfD4g8S_V_dsg8yS9JdJq7PtQsZh-C95",
-			"line": "competitive"
+			"line": "casual"
 		},
 		{
 			"gametag": "I CTR I AyMaNx",
@@ -302,7 +311,7 @@
 			"date": "11/07/1991",
 			"patent": "coronel",
 			"skull": "blade",
-			"line": "competitive"
+			"line": "casual"
 		},
 		{
 			"gametag": "LucasCampos HLD",
@@ -337,7 +346,7 @@
 			"skull": "treyway",
 			"drive": "128MWKe1YBeztSiq-YnFhmkdt22VSgeCX",
 			"mixer": "x TraayWaay",
-			"line": "competitive"
+			"line": "casual"
 		},
 		{
 			"gametag": "ColdLord Gold",
@@ -365,7 +374,7 @@
 			"patent": "coronel",
 			"skull": "terminator",
 			"drive": "13RZkBupcfK7HkTb3V-P4hApfhZ8g8TA6",
-			"line": "competitive"
+			"line": "casual"
 		},
 		{
 			"gametag": "JonathanR77",
